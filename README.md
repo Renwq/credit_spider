@@ -1,7 +1,7 @@
 # credit_spider
 Customize the view credit score dial and a radar dial.
-![credit_img](https://github.com/Renwq/credit_spider.git/credit.png)
-![spider_img](https://github.com/Renwq/credit_spider.git/spider.png)
+![credit_img](https://raw.githubusercontent.com/Renwq/credit_spider/master/credit.png)
+![spider_img](https://raw.githubusercontent.com/Renwq/credit_spider/master/spider.png)
 ## Use
 Write into the layout file
 ```
